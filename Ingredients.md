@@ -1,6 +1,6 @@
 #Ingredients
 
-1.Flour
+1. Flour
 2. Sourdough Starter
 3. Tomatoes
 4. Mozarella
